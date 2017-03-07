@@ -131,9 +131,9 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
-
+social:
+  GitHub: https://github.com/sky-co
+  Weibo: http://weibo.com/u/2717651533
 
 # Social Links Icons
 # Icon Mapping:
@@ -145,7 +145,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
+  #Twitter: twitter
   Weibo: weibo
 
 
@@ -205,8 +205,11 @@ links:
   云风的BLOG: http://blog.codingnow.com/
   果冻想: http://www.jellythink.com/
   C++ 爱好者: https://www.cppfans.org/
+  刘未鹏: http://mindhacks.cn/
+  阮一峰: http://www.ruanyifeng.com/home.html
+  神仙: http://xiezhenye.com/
   Jason Time: http://jasontime.org/
-
+  
 
 # ---------------------------------------------------------------
 # Post Settings
