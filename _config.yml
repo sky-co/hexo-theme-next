@@ -134,6 +134,7 @@ font:
 social:
   GitHub: https://github.com/sky-co
   Weibo: http://weibo.com/u/2717651533
+  Linkedin: http://www.linkedin.com/in/ron-he-7290aa30/
 
 # Social Links Icons
 # Icon Mapping:
@@ -147,6 +148,7 @@ social_icons:
   GitHub: github
   #Twitter: twitter
   Weibo: weibo
+  #linkedin: linkedin
 
 
 # Sidebar Avatar
