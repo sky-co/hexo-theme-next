@@ -448,7 +448,7 @@ calendar:
   showDeleted: false
   singleEvents: true
   maxResults: 250
-
+  
 # Algolia Search
 algolia_search:
   enable: false
